@@ -9,7 +9,7 @@ The dataset used in this project contains information about cell nuclei taken fr
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/yourusername/breast-cancer-detection.git 
+git clone https://github.com/nirmaladevij/breast_cancer_detection.git 
 
 2. Install the required dependencies:
 pip install -r requirements.txt
